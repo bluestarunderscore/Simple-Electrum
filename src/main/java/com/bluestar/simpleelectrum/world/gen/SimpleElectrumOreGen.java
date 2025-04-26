@@ -3,7 +3,6 @@ package com.bluestar.simpleelectrum.world.gen;
 import com.bluestar.simpleelectrum.world.SimpleElectrumPlacedFeatures;
 import net.fabricmc.fabric.api.biome.v1.BiomeModifications;
 import net.fabricmc.fabric.api.biome.v1.BiomeSelectors;
-import net.minecraft.world.biome.BiomeKeys;
 import net.minecraft.world.gen.GenerationStep;
 
 public class SimpleElectrumOreGen

@@ -2,7 +2,6 @@ package com.bluestar.simpleelectrum.items;
 
 import com.bluestar.simpleelectrum.SimpleElectrum;
 import com.bluestar.simpleelectrum.blocks.SimpleElectrumBlocks;
-import com.bluestar.simpleelectrum.datagen.SimpleElectrumRecipeProvider;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
