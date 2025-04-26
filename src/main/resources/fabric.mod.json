@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "simple_electrum",
+	"version": "${version}",
+	"name": "Simple Electrum",
+	"description": "Adds Silver and Electrum to Minecraft",
+	"authors": [
+		"Bluestar_"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/simple_electrum/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.bluestar.simpleelectrum.SimpleElectrum"
+		],
+		"client": [
+			"com.bluestar.simpleelectrum.SimpleElectrumClient"
+		],
+		"fabric-datagen": [
+			"com.bluestar.simpleelectrum.SimpleElectrumDataGenerator"
+		]
+	},
+	"mixins": [
+		"simple_electrum.mixins.json",
+		{
+			"config": "simple_electrum.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

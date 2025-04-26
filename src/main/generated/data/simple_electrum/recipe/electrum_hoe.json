@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "simple_electrum:electrum_ingot"
+    }
+  },
+  "pattern": [
+    "SS ",
+    " I ",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "simple_electrum:electrum_hoe"
+  }
+}

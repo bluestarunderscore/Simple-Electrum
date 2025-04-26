@@ -1,0 +1,33 @@
+{
+	
+	"item.simple_electrum.raw_silver": "Raw Silver",
+	"item.simple_electrum.silver_ingot": "Silver Ingot",
+	"item.simple_electrum.silver_nugget": "Silver Nugget",
+	"item.simple_electrum.electrum_blend": "Electrum Blend",
+	"item.simple_electrum.electrum_ingot": "Electrum Ingot",
+	"item.simple_electrum.electrum_nugget": "Electrum Nugget",
+
+	"item.simple_electrum.silver_helmet": "Silver Helmet",
+	"item.simple_electrum.silver_chestplate": "Silver Chestplate",
+	"item.simple_electrum.silver_leggings": "Silver Leggings",
+	"item.simple_electrum.silver_boots": "Silver Boots",
+
+	"item.simple_electrum.silver_sword": "Silver Sword",
+	"item.simple_electrum.silver_pickaxe": "Silver Pickaxe",
+	"item.simple_electrum.silver_axe": "Silver Axe",
+	"item.simple_electrum.silver_shovel": "Silver Shovel",
+	"item.simple_electrum.silver_hoe": "Silver Hoe",
+	
+	"item.simple_electrum.electrum_sword": "Electrum Sword",
+	"item.simple_electrum.electrum_pickaxe": "Electrum Pickaxe",
+	"item.simple_electrum.electrum_axe": "Electrum Axe",
+	"item.simple_electrum.electrum_shovel": "Electrum Shovel",
+	"item.simple_electrum.electrum_hoe": "Electrum Hoe",
+
+	"block.simple_electrum.silver_ore": "Silver Ore",
+	"block.simple_electrum.deepslate_silver_ore": "Deepslate Silver Ore",
+	"block.simple_electrum.nether_silver_ore": "Nether Silver Ore",
+	"block.simple_electrum.raw_silver_block": "Raw Silver Block",
+	"block.simple_electrum.silver_block": "Block of Silver",
+	"block.simple_electrum.electrum_block": "Block of Electrum"
+}

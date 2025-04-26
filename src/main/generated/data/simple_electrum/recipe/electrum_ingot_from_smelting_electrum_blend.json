@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "electrum_ingot",
+  "ingredient": {
+    "item": "simple_electrum:electrum_blend"
+  },
+  "result": {
+    "id": "simple_electrum:electrum_ingot"
+  }
+}

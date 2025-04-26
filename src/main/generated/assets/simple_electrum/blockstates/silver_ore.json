@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "simple_electrum:block/silver_ore"
+    }
+  }
+}

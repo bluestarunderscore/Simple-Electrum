@@ -1,0 +1,10 @@
+{
+  "values": [
+    "simple_electrum:silver_ore",
+    "simple_electrum:deepslate_silver_ore",
+    "simple_electrum:nether_silver_ore",
+    "simple_electrum:raw_silver_block",
+    "simple_electrum:silver_block",
+    "simple_electrum:electrum_block"
+  ]
+}
