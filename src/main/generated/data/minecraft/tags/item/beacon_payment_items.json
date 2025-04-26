@@ -1,5 +1,6 @@
 {
   "values": [
-    "simple_electrum:silver_ingot"
+    "simple_electrum:silver_ingot",
+    "simple_electrum:electrum_ingot"
   ]
 }

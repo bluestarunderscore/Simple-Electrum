@@ -8,10 +8,10 @@
 		"Bluestar_"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/simple-electrum",
+		"sources": "https://github.com/bluestarunderscore/Simple-Electrum"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/simple_electrum/icon.png",
 	"environment": "*",
 	"entrypoints": {
